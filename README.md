@@ -98,7 +98,7 @@ cmake --build build_gtsam --config RelWithDebInfo -j
 cd build_gtsam
 make python-install
 ```
-Note for [](https://github.com/ToniRV/NeRF-SLAM/issues/9#issue-1514193452)
+Note for [issuse](https://github.com/ToniRV/NeRF-SLAM/issues/9#issue-1514193452)
 ```
 cd thirdparty/
 rm -rf gtsam
