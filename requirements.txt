@@ -2,6 +2,7 @@ numpy
 scipy
 tqdm
 matplotlib
+colored_glog
 
 open3d
 opencv-python
